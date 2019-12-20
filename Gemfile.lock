@@ -33,7 +33,7 @@ GEM
     multi_json (1.8.2)
     multi_test (0.0.2)
     mustache (0.99.4)
-    rack (1.6.11)
+    rack (1.6.12)
     rack-protection (1.5.5)
       rack
     rake (10.1.1)
