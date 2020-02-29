@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rake', '~> 10.1.1'
+gem 'rake', '~> 12.3.3'
 gem 'minitest'
 gem 'aruba', '~> 0.5.3'
 gem 'cucumber', '~> 1.3.9'
