@@ -1,7 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.3.2)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     aruba (0.5.3)
       childprocess (>= 0.3.6)
       cucumber (>= 1.1.1)
@@ -33,6 +34,7 @@ GEM
     multi_json (1.8.2)
     multi_test (0.0.2)
     mustache (0.99.4)
+    public_suffix (5.0.0)
     rack (1.6.11)
     rack-protection (1.5.5)
       rack
